@@ -161,7 +161,7 @@ public class PlayerController : MonoBehaviour
             }
 
             if(Input.GetButtonDown("Cancel")) {
-                GameObject.Find("GameManager").GetComponent<GameManager>().HandleSceneReturn();
+                //GameObject.Find("GameManager").GetComponent<GameManager>().HandleSceneReturn();
             }
         }
     }

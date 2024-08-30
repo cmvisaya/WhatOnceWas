@@ -12,18 +12,33 @@ EditorBuildSettings:
     path: Assets/Scenes/Diorama2.unity
     guid: ae0c7c910614d2942acae615301719d1
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Pre-airdash Dialogue.unity
+    guid: 83f8e4bda4f4d654dae12bc41d247c84
   - enabled: 1
-    path: Assets/Scenes/ThemePark.unity
-    guid: 6ffb9cb8994174e41988d60794415e01
+    path: Assets/Scenes/PreFairDialogue.unity
+    guid: 127558b4997d9e940a9c0f51c3db0034
+  - enabled: 1
+    path: Assets/Scenes/PreBeachDialogue.unity
+    guid: 623c15e2ab4fac8439f36dbd407f8c14
+  - enabled: 1
+    path: Assets/Scenes/PreToriDialogue.unity
+    guid: 3751a80101a849540b6fb08eb8c87f8d
+  - enabled: 1
+    path: Assets/Scenes/End Screen.unity
+    guid: d431d755777b10f4bbb432512bb7cbe1
+  - enabled: 1
+    path: Assets/Scenes/PredialogueScene.unity
+    guid: ac004e4cd9b5605449ac94fa8df277fd
   - enabled: 1
     path: Assets/Scenes/Diorama1.unity
     guid: e8129f44fa7a276409ed8661f18e302e
   - enabled: 1
+    path: Assets/Scenes/ThemePark.unity
+    guid: 6ffb9cb8994174e41988d60794415e01
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
     path: Assets/Scenes/Diorama3.unity
     guid: e8969f542492c8248ac6a4f842481e53
-  - enabled: 1
-    path: Assets/Scenes/End Screen.unity
-    guid: d431d755777b10f4bbb432512bb7cbe1
   m_configObjects: {}

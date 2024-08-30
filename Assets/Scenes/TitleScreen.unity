@@ -186,7 +186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ButtonName: startButton
   effect: 7
-  sceneIndexToLoad: 1
+  sceneIndexToLoad: 7
   targetObject: {fileID: 0}
 --- !u!1 &99641493
 GameObject:
@@ -812,7 +812,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f90ccfe8879ec674f83b33d8535b5d44, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 2b71e4659306e764ebffa578c665d38b, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.5
   m_Pitch: 1

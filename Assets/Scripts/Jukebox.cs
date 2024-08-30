@@ -5,7 +5,7 @@ using UnityEngine;
 public class Jukebox : MonoBehaviour
 {
     public AudioSource audioSource;
-    public AudioClip  audioClip;
+    public AudioClip audioClip;
     public Transform positionPlayed;
 
     // Start is called before the first frame update

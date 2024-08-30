@@ -155,7 +155,7 @@ public class PlayerController1 : MonoBehaviour
             cam.offset.z = cam.storedOffsetZ;
         }
 
-        if(Input.GetButtonDown("Cancel")) { GameObject.Find("GameManager").GetComponent<GameManager>().HandleSceneReturn(); }
+        //if(Input.GetButtonDown("Cancel")) { GameObject.Find("GameManager").GetComponent<GameManager>().HandleSceneReturn(); }
         anim.SetBool("isGrounded", grounded);
         anim.SetBool("isSliding", isSliding);
         anim.SetFloat("Speed", speed);

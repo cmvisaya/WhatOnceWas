@@ -19,8 +19,7 @@ public class playerShoot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
- 
-        if(Input.GetMouseButtonDown(0)){
+        if(Input.GetKeyDown(KeyCode.E)){
             Ray ray = cam.ScreenPointToRay(screenCenter);
             Debug.DrawRay(ray.origin, ray.direction*50, Color.green, 2);
             RaycastHit hit;
