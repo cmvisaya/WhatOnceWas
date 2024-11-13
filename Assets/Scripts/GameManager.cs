@@ -22,6 +22,12 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
         visited[0] = true;
     }
+    
+    private void Update() {
+        if (Input.GetKeyDown(KeyCode.Escape)) {
+            Application.Quit();
+        }
+    }
 
     private bool allVisited() {
         bool returned = true;
