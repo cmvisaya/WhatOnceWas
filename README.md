@@ -22,5 +22,5 @@ To get started with **What Once Was**, follow these steps:
 
 ## Contact
 
-For any questions or inquiries, please contact us at [christianmqvisaya@gmail.com](christianmqvisaya@gmail.com).
+For any questions or inquiries, please contact me at [christianmqvisaya@gmail.com](christianmqvisaya@gmail.com).
 
