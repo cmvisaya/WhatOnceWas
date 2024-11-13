@@ -18,7 +18,7 @@
 ## Installation
 
 To get started with **What Once Was**, follow these steps:
- - What Once Was is available for download on [[itch.io](https://lotusgamedev.itch.io)](https://lotusgamedev.itch.io/what-once-was).
+ - What Once Was is available for download on [itch.io](https://lotusgamedev.itch.io/what-once-was).
 
 ## Project Statement
 **Cybersky Horizons** is a passion-project started in early 2024 by myself that spanned approximately two and a half months in development. It was my first attempt at an online multiplayer experience, and I think I did the game justice from an implementation standpoint with the vertical-slice that I had developed.
