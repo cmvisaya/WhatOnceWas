@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Simple Dialogue System**: Simple, highly flexible dialogue system that makes it quick to moments of dialogue.
+- **Simple Dialogue System**: Simple, highly flexible dialogue system that makes it quick to implement moments of dialogue.
 - **Visually Interesting Environments**: Scenes created using primarily free assets.
 
 ## Gameplay
