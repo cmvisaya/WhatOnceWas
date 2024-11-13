@@ -1,27 +1,24 @@
 # What Once Was
 
-**What Once Was** is a story-driven, singleplayer 3rd-person experience. Dive into the mindscape of Emi, a girl now far removed from her fondly held childhood. Made for the "Tools in Game Design - Unity" class at UW-Madison.
+**What Once Was** is a story-driven, singleplayer 3rd-person experience. Dive into the mindscape of Mira, a girl now far removed from her fondly held childhood. Made for the "Tools in Game Design - Unity" class at UW-Madison.
 
 ## Features
 
-- **Dynamic Movement System**: Master the art of wall-running to replenish ammunition, execute ground slides for quick dodges, and jump cancel to outmaneuver opponents.
-- **Diverse Character Roster**: Select from a range of characters, each offering different abilities and playstyles to suit your tactical preferences.
-- **Competitive Gameplay**: Engage in intense multiplayer battles where agility and strategy are crucial to achieving victory.
-- **Stunning Arenas**: Fight in laser-tag-inspired arenas designed for high-octane combat and fast-paced action.
+- **Simple Dialogue System**: Simple, highly flexible dialogue system that makes it quick to moments of dialogue.
+- **Visually Interesting Environments**: Scenes created using primarily free assets.
 
 ## Gameplay
 
-- **Movement Mechanics**: Utilize advanced movement techniques including wall-running, ground sliding, and jump cancelling to gain an edge over your opponents.
-- **Combat**: Engage in thrilling firefights using a variety of weapons and abilities, tailored to your chosen character's strengths.
-- **Ammunition Management**: Replenish your ammo dynamically by performing wall-runs, adding an extra layer of strategy to your combat approach and utilization of the surrounding obstacles.
+- **Story-driven Experience**: Explore environments and come to know the main character through her experiences.
+- **1st and 3rd Person**: Engage in both 3rd and 1st person traversal, invoking varying paces of gameplay.
 
 ## Installation
 
 To get started with **What Once Was**, follow these steps:
- - What Once Was is available for download on [itch.io](https://lotusgamedev.itch.io/what-once-was).
+ - What Once Was is available for download on [itch.io](https://lotusgamedev.itch.io/what-once-was). Further installation instructions can be found there.
 
 ## Project Statement
-**Cybersky Horizons** is a passion-project started in early 2024 by myself that spanned approximately two and a half months in development. It was my first attempt at an online multiplayer experience, and I think I did the game justice from an implementation standpoint with the vertical-slice that I had developed.
+**What Once Was** initially started as a class project in 2023. This project reaches far beyond the bounds of the class requirements, aiming to tie together the weekly projects into a profound, cohesive story. It was out of my comfort zone in the sense that I usually focus much more on mechanics rather than storytelling, but I believe I had done well to tell a simple, yet compelling story in the medium.
 
 ## Contact
 
